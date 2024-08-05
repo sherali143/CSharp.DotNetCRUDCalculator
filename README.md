@@ -17,3 +17,6 @@ This repository contains a C# .NET Framework-based calculator application that i
 2. Open the solution in Visual Studio.
 3. Build and run the application.
 4. Perform arithmetic calculations and manage calculation history using the provided interface.
+
+
+![Screenshot 2024-05-16 010148](https://github.com/user-attachments/assets/ddaf9b9a-8f5f-43ae-8dc1-58ccd2221ae2)
